@@ -17,7 +17,7 @@
   🛠️ Proficient in <b>React, Next.js, Python, Node.js, Flask, and Generative AI</b>.<br>
   🎓 Final-year Computer Science Engineering student at <b>Vellore Institute of Technology (VIT), Vellore</b>.<br>
   🎯 Passionate about building scalable, AI-driven solutions that create real-world impact: UPS AI/ML Intern.<br>
-  💻 View all my projects on <a href="https://github.com/Theyashok" target="_blank"><b>GitHub</b></a>.
+  💻 View all my projects on <a href="https://github.com/DevanshuAgarwal2029" target="_blank"><b>GitHub</b></a>.
 </p>
 
 <p align="center">
