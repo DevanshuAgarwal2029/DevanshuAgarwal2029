@@ -2,9 +2,9 @@
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="Animated Banner"/>
 </p>
 
-<div align="center">
-  <img src="https://i.ibb.co/XYSXd3j/footer.gif" alt="Welcome Banner" width="80%" />
-</div>
+<p align="center">
+  <img src="https://deltiasgaming.com/wp-content/uploads/2024/10/4-1.webp" width="100%" alt="Luffy Gear 5 Banner">
+</p>
 
 <h1 align="center">Hi 👋, I'm Devanshu Agarwal</h1>
 
@@ -71,9 +71,7 @@
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="Animated Divider">
 </p>
 
-<p align="center">
-  <img src="https://deltiasgaming.com/wp-content/uploads/2024/10/4-1.webp" width="100%" alt="Luffy Gear 5 Banner">
-</p>
+
 
 <h3 align="center">🌐 Connect With Me</h3>
 
@@ -83,9 +81,6 @@
   </a>
   <a href="https://www.linkedin.com/in/devanshu-agarwal-360bb1207/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-  <a href="https://leetcode.com/u/the_yash_21/" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode">
   </a>
 </div>
 
